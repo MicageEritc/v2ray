@@ -59,3 +59,15 @@ Shadowrocket软件账号密码
 >qianglie@protonmail.com
 >
 >FfH#ZqBDYg66
+
+# 低价机场“墙裂”
+https://go.qianglie.cc/aff.php?aff=4061
+http://t.smxhx.com/aff.php?aff=4061
+
+```
+¥5.99 CNY/月付
+50GB/月 高速流量
+无限客户端 同时在线
+高达 500Mbps 速率可用
+Netflix/TVB/Hulu/HBO 访问解锁
+```
