@@ -62,6 +62,7 @@ ssr://NDUuMTQ0LjIuNTE6NTMzMDpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01taDMvP29iZn
 3. Mac客户端
 
 [v2rayX](https://github.com/insisttech/v2rayX-copy/releases)
+[v2rayU](https://github.com/yanue/V2rayU/releases)
 
 4. iOS客户端
 Shadowrocket软件账号密码
@@ -70,7 +71,18 @@ Shadowrocket软件账号密码
 >
 >FfH#ZqBDYg66
 
-# 低价机场“墙裂”
+# 一些常见的问题
+
+**1.如果v2rayU出现了TCP监听错误怎么办？**
+
+打开高级设置-Advance，把Sock和http监听端口换成1086以外的，比如1087、1088等，不要一样，PAC监听端口不需要改动，保存即可。
+
+**2.Telegram如何通过PAC模式访问？**
+
+打开Telegram，点开Setting-Advance-use custom proxy，Sock5设置成v2rayU客户端里配置即可。
+
+
+# 低价机场强烈推荐：“墙裂”
 https://go.qianglie.cc/aff.php?aff=4061
 
 http://t.smxhx.com/aff.php?aff=4061
